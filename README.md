@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-```
-![Visitor Count](https://profile-counter.glitch.me/abdllhbyrktr/count.svg)
-```
-
 <!--
 **abdllhbyrktr/abdllhbyrktr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
